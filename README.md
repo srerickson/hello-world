@@ -1,3 +1,7 @@
 # This is my project
 
-I am a data services librarian at UCSB. 
+My name is Seth Erickson.  I am a data services librarian at UCSB. 
+My responsibilities include:
+
+- Teach carpentry workshops
+- Teaching git and github
